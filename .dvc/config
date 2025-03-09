@@ -1,0 +1,4 @@
+[core]
+    remote = myremotes3dvc
+['remote "myremotes3dvc"']
+    url = s3://personalizedtourss3dvcbucket
